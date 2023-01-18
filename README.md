@@ -1,4 +1,4 @@
-The monty program
+The MONTY program
 
 Usage: monty file
 where file is the path to the file containing Monty byte code
